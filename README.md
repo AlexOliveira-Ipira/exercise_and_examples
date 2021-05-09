@@ -4,10 +4,7 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 # Tipos de dados Básicos 
 - Números --> int , float , long , complex
 
-    
-    
-    
-    
+
  Dados utilizados do site:
  https://www.python.org
  
@@ -18,3 +15,7 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
    sendo usado para estudo durante o bootcamp.
    
  - Os exemplos estão dentro do arquvio numpy_exemplo.py
+
+# Exemplo de acesso ao index do array
+ 
+ - Os exemplos estão dentro do arquivo indexando_array.py
