@@ -60,8 +60,3 @@ y = x[:2].copy()
 y[0] = -100
 print('Valor de X depois', x)
 print()
-
-
-
-
-
