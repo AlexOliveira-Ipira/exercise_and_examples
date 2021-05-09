@@ -52,3 +52,7 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 # Visualizaçào de dados no Pandas
 
   - Os exemplos estão no arquvivo visualizacao_pandas.py
+
+# Dicas geraris sobre o Pandas
+
+  - Os exemplos estão no arquivo dicas_pandas.py
