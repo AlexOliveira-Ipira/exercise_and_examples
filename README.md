@@ -24,3 +24,7 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 
     - Os exemplos estão no arquivo operacoes_array.py
     - Continuaçào dos exemplos de operações , arquivo o[erações_matriciais
+
+# Exemplos de indexação boleana
+
+    - Os exemplos estão no arquivo indexaçcao_boleana.py
