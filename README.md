@@ -28,3 +28,8 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 # Exemplos de indexação boleana
 
     - Os exemplos estão no arquivo indexaçcao_boleana.py
+
+# Exemplos de Operaçòes Uteis no Numpy
+
+   - Os exemplos estão no arquivo operacoes_uteis_numpy.py
+
