@@ -48,3 +48,7 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 # Exemplo de ordenação com Pandas
 
   - Os exemplos estão no arquiovo ordenacao_pandas.py
+
+# Visualizaçào de dados no Pandas
+
+  - Os exemplos estão no arquvivo visualizacao_pandas.py
