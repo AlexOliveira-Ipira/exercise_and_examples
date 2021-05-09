@@ -37,3 +37,6 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 
    - Os exemplos estão no arquivo regressao_linear_numpy.py
 
+# Exemplo de Utilizaçào do Pandas.
+
+   - Os exemplos estão no arquivo int_pandas.py
