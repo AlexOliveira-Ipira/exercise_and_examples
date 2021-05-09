@@ -33,3 +33,7 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 
    - Os exemplos estão no arquivo operacoes_uteis_numpy.py
 
+# Exemplos de Regressão linear com Nunpy
+
+   - Os exemplos estão no arquivo regressao_linear_numpy.py
+

@@ -63,7 +63,7 @@ print()
 #Criando array de valores aleatoreos utilizando o np.random.random
 print('Exemplo de criação de array de numeros aleatores, entre 0,0 e 1,0')
 print('utilizando o metodo np.random.random.')
-x = np.random.random(size=(2,3))
+x = np.random.random(size=(2, 3))
 print('X:\n', x)
 print('Shap:', x.shape)
 print()

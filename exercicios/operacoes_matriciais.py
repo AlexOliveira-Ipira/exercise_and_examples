@@ -45,6 +45,3 @@ x = np.dot(np.linalg.inv(A), C)
 #x = np.linalg.inv(A) @ C
 print('a , b:', x.ravel())
 
-
-
-
