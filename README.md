@@ -23,3 +23,4 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 # Exemplo de operaçõe com array
 
     - Os exemplos estão no arquivo operacoes_array.py
+    - Continuaçào dos exemplos de operações , arquivo o[erações_matriciais
