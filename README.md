@@ -40,3 +40,7 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 # Exemplo de Utilizaçào do Pandas.
 
    - Os exemplos estão no arquivo int_pandas.py
+
+# Exemplo de Indexação boleana no pandas
+
+   - Os exemplos estão no arquivo indexa_pandas.py
