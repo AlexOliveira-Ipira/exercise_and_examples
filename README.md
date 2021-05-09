@@ -44,3 +44,7 @@ Utilizado para fazer exercícios durante o processo de aprendizagem
 # Exemplo de Indexação boleana no pandas
 
    - Os exemplos estão no arquivo indexa_pandas.py
+
+# Exemplo de ordenação com Pandas
+
+  - Os exemplos estão no arquiovo ordenacao_pandas.py
